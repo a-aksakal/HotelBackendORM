@@ -1,0 +1,5 @@
+# Burda git'e yüklenmesini istemediğimiz dosyaları yazıyoruz.
+
+
+node_modules/
+.env

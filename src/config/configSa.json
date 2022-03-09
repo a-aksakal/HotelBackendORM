@@ -1,0 +1,31 @@
+{
+  "directory": "C:\\NodeProjects\\hotelbackend2\\src\\models",
+  "additional": {},
+  "dialect": "mssql",
+  "dialectOptions": {
+    "options": {
+        "encrypt": false
+    }
+},
+  "port": 1433,
+  "host": "DESKTOP-8M7D7GE",
+  "database": "Hotel",
+  "storage": "undefined",
+  "tables": null,
+  "skipTables": null,
+  "skipFields": null,
+  "pkSuffixes": null,
+  "lang": "es5",
+  "caseModel": "'o'",
+  "caseFile": "'o'",
+  "caseProp": "'o'",
+  "noAlias": false,
+  "noInitModels": false,
+  "noWrite": false,
+  "views": false,
+  "singularize": false,
+  "username": "sa",
+  "useDefine": false,
+  "indentation": 2,
+  "noIndexes": false
+}

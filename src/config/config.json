@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "1234",
+    "database": "Hotel",
+    "host": "DESKTOP-KL3DULI",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "sa",
+    "password": "1234",
+    "database": "Hotel",
+    "host": "DESKTOP-KL3DULI",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "sa",
+    "password": "1234",
+    "database": "Hotel",
+    "host": "DESKTOP-KL3DULI",
+    "dialect": "mssql"
+  }
+}
